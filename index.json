@@ -1,0 +1,11 @@
+[
+  {
+    "name": "ReAnime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.reanime",
+    "apk": "apk/reanime-v1.0.0.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.0.0",
+    "nsfw": 0
+  }
+]
